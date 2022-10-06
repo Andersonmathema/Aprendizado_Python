@@ -1,0 +1,7 @@
+nome = str(input('Digite seu nome completo: ')).strip()
+nmais = nome.upper()
+nminus = nome.lower()
+qletras = len(nome.replace(' ',''))
+listan = nome.split()
+qpnome = len(listan[0])
+print(' Em maiúscula: {} \n em minúscula: {} \n Quantidade de letras: {} \n Quantidade de letras do primeiro nome: {}'.format(nmais, nminus, qletras, qpnome))

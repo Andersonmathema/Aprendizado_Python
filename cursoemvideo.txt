@@ -1,0 +1,6 @@
+Jose;35
+Anderson;31
+Maria;35
+Anderson;31
+Luiz;23
+Igor;26
